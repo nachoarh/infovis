@@ -9,4 +9,6 @@ Parallel Coordinates
 Choropleth Maps
 Graduated Symbol Maps
 Dorling Cartogram
-...
+Reingold-Tilford algorithm
+Voronoi and Jigsaw treemaps
+seriation
