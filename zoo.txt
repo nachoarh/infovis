@@ -1,2 +1,12 @@
-q-q plot
+Protovis
+ACM Queue
+SVG
+Stem-and-Leaf Plots
+Q-Q plots
+SPLOM
+brushing-and-linking
+Parallel Coordinates
+Choropleth Maps
+Graduated Symbol Maps
+Dorling Cartogram
 ...
